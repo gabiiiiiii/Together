@@ -78,6 +78,7 @@ If you do not have the application, simply follow the Expo DevTool link through 
 <img src = "images/images/Screenshot from 2020-04-12 21-27-57.png" width = "300" height = "200" >
  
 Choose <strong> Run in web browser </strong><br>
+This will open a new tab within the web browser that emulates the iOS application. 
 
 ## Troubleshooting
 <strong>  <ul>
