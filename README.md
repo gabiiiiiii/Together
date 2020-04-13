@@ -61,13 +61,23 @@ nmp start
 ```
 Make sure you are in the Together directory.
 
-If you have the phone application scan the QR code from the terminal.
+This will open a web browswer with a Local Hoast connection.
+
+<img src = "images/images/Screenshot from 2020-04-12 21-16-53.png" width = "500" height = "200" >
+
+
+If you have the phone application, scan the QR code from the terminal.
 <ul>
-<li>If on Android, scan via Expo app</li>
-<li>If on iOS, scan via Camera app</li>
+<li>If on Android, scan via Expo application</li>
+<li>If on iOS, scan via Camera application</li>
 </ul>
 
-If you do not have the application, simply follow the Expo DevTool link.
+If you do not have the application, simply follow the Expo DevTool link through the terminal.
+*This is the same page as the Local Hoast connection.*
+
+<img src = "images/images/Screenshot from 2020-04-12 21-27-57.png" width = "300" height = "200" >
+ 
+Choose <strong> Run in web browser </strong><br>
 
 ## Troubleshooting
 <strong>  <ul>
